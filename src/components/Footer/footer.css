@@ -1,0 +1,51 @@
+.footer__row {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 30px 67px 40px;
+    display: flex;
+    column-gap: 50px;
+}
+
+.footer__title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0C1014;
+    margin-bottom: 8px;
+}
+
+.footer__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    color: #515759;
+    margin: 16px 0 8px;
+}
+
+.footer__icons {
+    display: flex;
+    column-gap: 30px;
+    font-size: 22px;
+    color: #1890FF;
+    margin-top: 15px;
+}
+
+.footer__num {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    color: #515759;
+    margin: 22px 0 11px;
+}
+
+.footer__email {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    color: #1890FF;
+}
+

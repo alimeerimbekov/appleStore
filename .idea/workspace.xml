@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cdc9b8d-115f-4ea3-b776-4f0733d35a61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Brands/Brands.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Brands/brands.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Carousel/CardMen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Carousel/CardMen2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Carousel/CardMen3.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Carousel/Carousel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Carousel/carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Contributor/Contributor.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Contributor/contributor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/NextTools/NextTools.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/NextTools/NextToolsLeft.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/NextTools/NextToolsRight.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/NextTools/nextTools.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/NextTools/nextToolsCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Tools/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Tools/Tools.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/components/Main/Tools/tools.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../antools/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Popup/Popup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Popup/PopupBuy/PopupBuy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Popup/PopupBuy/popupBuy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Popup/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/Main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-BlackItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ExtraBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Heavy.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-HeavyItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-HeavyItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-HeavyItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-RegularItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-RegularItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-RegularItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-SemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-UltraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-UltraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-UltraLightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-UltraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/Gilroy-UltraLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/assets/fonts/gilroy/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/pages/Products/Products.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/pages/Products/ProductsItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/pages/Users/Users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/redux/reducers/products.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/redux/reducers/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adminlogos/src/utils/menuData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/Layout/Footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/Layout/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/Layout/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-BlackItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ExtraBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Heavy.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-HeavyItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-HeavyItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-HeavyItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-RegularItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-RegularItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-RegularItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-SemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-UltraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-UltraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-UltraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-UltraLightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-UltraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/Gilroy-UltraLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/assets/fonts/gilroy/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/BasketZero/BasketZero.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/CafeCard/CafeCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/CardProducts/CardProducts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/Form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/NameProducts/NameProducts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/ProductsFilter/ProductsFilter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/components/Title/Title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/AddProduct/AddProduct.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Basket/Basket.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Catalog/Catalog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Catalog/CategorySelect/CategorySelect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Catalog/OrderSelect/OrderSelect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Catalog/TitleSearch/TitleSearch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Delivery/Delivery.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Delivery/Question/Question.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/AboutCafe/AboutCafe.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/AboutCafe/CafeLeft.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/AboutCafe/CafeRight.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/AllProducts/AllProducts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/Begin/Begin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/Contact/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Order/Order.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Product/Product.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Register/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/pages/Sales/Sales.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/addProduct.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/basket.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/basketZero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/begin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/cafe.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/catalog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/delivery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/order.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/products.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/sales.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/utils/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/utils/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logos/src/utils/menuData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/Layout/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/Layout/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/pages/About/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/pages/Contact/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/pages/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newapp/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2/src/components/Btns/Btns.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2/src/components/Menu/Menu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2/src/components/Row/Row.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2/src/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2/src/utils/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2/src/utils/menuData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react2_1/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/HeaderTodo/HeaderTodo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/HeaderTodo/headerTodo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/SearchTodo/SearchTodo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/SearchTodo/searchTodo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/Todo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/TodoItem/TodoItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/TodoItem/TodoItemBtns/TodoItemBtns.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/TodoItem/TodoItemBtns/todoItemBtns.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/TodoItem/todoItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/components/Todo/todo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todo/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/pages/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/pages/Register/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/pages/Register/register.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/components/ContentCategory/ContentCategory.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/components/ContentCategory/ContentCheckbox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/components/Form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/pages/Home/Aside.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/pages/Home/HomeContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/pages/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/pages/Register/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/homeContent.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/register.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/utils/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/utils/DataColors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist2/src/utils/axios.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KguDvVBjq27ftPdWCUjjs2vpEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cdc9b8d-115f-4ea3-b776-4f0733d35a61" name="Changes" comment="" />
+      <created>1674408430987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674408430987</updated>
+      <workItem from="1674408433196" duration="94000" />
+      <workItem from="1681203498653" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
